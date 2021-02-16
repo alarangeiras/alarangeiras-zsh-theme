@@ -13,6 +13,9 @@ Another custom theme for oh-my-zsh
 * [Oh-My-Zsh](https://ohmyz.sh/)
 * [FiraCode Fonts](https://github.com/tonsky/FiraCode)
 
+Don't forget to config your terminal to use Fira Code fonts
+
+![](docs/img/iterm-config.png)
 # How to Install
 
 * Download the repository: `git clone https://github.com/alarangeiras/alarangeiras-zsh-theme`
